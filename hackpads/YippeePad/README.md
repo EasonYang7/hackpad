@@ -20,7 +20,8 @@ BOM:
 1x SEEEDUINO XIAO RP2040
 1x MCP23017_SO IO Expander
 2x EC11 Rotary Encoder
-2x 4.7k resistor
+2x 4.7k ohm resistors
+1x 330 ohm resistors
 1x Case
 
 
