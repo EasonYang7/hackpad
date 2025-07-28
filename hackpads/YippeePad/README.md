@@ -5,7 +5,7 @@ The Yippee Pad is a super duper productive macropad designed to make your workfl
 The inspiration of Yippee Pad was inspired when I wanted to create a macropad to provide the extra little joy in life I was missing. Whether it's having a favourite GIF being displayed, or the bright LED's fueling my hackathon all-nighters, this macropad can do it all in bringing a spark of happiness to my workflow! :D
 
 ## Challenges
-Bringing this macropad to life was an exciting adventure! Though it came with with diffculty. Designing Schematiics, Creating PCBs, and CAD'ing 3D objects were all a new, but challenging task. I had to read TONS of documentaries, alongside many hours of watching tutorials from many videos. Each software had different GUI's which took time to get used to. Overall, given the time restriction set to this project, I am very proud of what is made, and I can't wait to build the Keyboard in March!
+Bringing this macropad to life was an exciting adventure! Though it came with with diffculty. Designing Schematics, Creating PCBs, and CAD'ing 3D objects were all a new, but challenging task. I had to read TONS of documentaries, alongside many hours of watching tutorials from many videos. Each software had different GUI's which took time to get used to. Overall, given the time restriction set to this project, I am very proud of what is made, and I can't wait to build the Keyboard in March!
 
 ## Specifications
 BOM:
