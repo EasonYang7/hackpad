@@ -1,4 +1,4 @@
-<img width="1340" height="1191" alt="Screenshot 2025-02-15 003324" src="https://github.com/user-attachments/assets/bd334529-e7ba-48a7-8230-c7a75b93a487" /># Welcome to Eason Yang's Yippee Pad!!
+# Welcome to Eason Yang's Yippee Pad!!
 The Yippee Pad is a super duper productive macropad designed to make your workflow smoother, faster, and way more happier!
 
 ## Inspiration
@@ -49,8 +49,8 @@ PCB Design:
 <img width="1340" height="1191" alt="Screenshot 2025-02-15 003324" src="https://github.com/user-attachments/assets/72c496f2-497d-45ee-8e8c-bcf14415c53d" />
 <img width="1116" height="1064" alt="Screenshot 2025-02-15 003338" src="https://github.com/user-attachments/assets/1ac29b64-3314-4a96-bb03-d6636171aa71" />
 
+(bonus: cute boba orpheus!!)
 <img width="143" height="167" alt="Screenshot 2025-02-15 204338" src="https://github.com/user-attachments/assets/a5d70982-fcf0-4ac8-ad7f-668ba675a40a" />
-(cute boba orpheus!!)
 
 3D Modeling:
 <img width="194" height="212" alt="Screenshot 2025-02-15 104719" src="https://github.com/user-attachments/assets/26892a54-b7ee-40e8-a071-37d73b4aae2b" />
