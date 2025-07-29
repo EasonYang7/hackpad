@@ -35,7 +35,10 @@ Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![Schematic](https://github.com/user-attachments/assets/c3909bdd-13ad-4a51-9aa4-36451dccf8bc) | ![PCB](https://github.com/user-attachments/assets/8f9dc45e-68e7-49e4-8e99-87333e30923e) | ![CAD](https://github.com/user-attachments/assets/afc00d8b-5ad3-4ba8-be69-f97585c0a23d)
 
-## Building Process Throughout!!
+## Building Process Journey!!
+![IMG_4303](https://github.com/user-attachments/assets/cd0b5841-f1c0-4a7f-810b-75742879efa2)
+
+
 
 Schematic Design:
 --------------------
