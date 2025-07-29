@@ -38,22 +38,28 @@ Schematic            |  PCB         |   Case
 ## Building Process Throughout!!
 
 Schematic Design:
+
+
 <img width="500" height="438" alt="Screenshot 2025-02-08 223947" src="https://github.com/user-attachments/assets/9c29d222-8ebe-4903-a2be-12a52adc3fcc" />
 <img width="662" height="520" alt="Screenshot 2025-02-09 105522" src="https://github.com/user-attachments/assets/d6747072-4551-4017-a4b4-dc5b34a6d446" />
 <img width="540" height="583" alt="Screenshot 2025-02-09 134014" src="https://github.com/user-attachments/assets/3af68c81-d4ea-4f4d-aa2d-74dcc7778987" />
 <img width="1208" height="826" alt="Screenshot 2025-02-11 160023" src="https://github.com/user-attachments/assets/14af3aeb-a93a-48d5-a5f8-2afade523940" />
 
+
 PCB Design:
+
+
 <img width="1618" height="914" alt="Screenshot 2025-02-15 003258" src="https://github.com/user-attachments/assets/e1a51a0d-469f-4afe-9ec1-837ba0170f43" />
 <img width="819" height="839" alt="Screenshot 2025-02-15 003308" src="https://github.com/user-attachments/assets/8e892877-331f-492c-b692-059d2b36c539" />
 <img width="1340" height="1191" alt="Screenshot 2025-02-15 003324" src="https://github.com/user-attachments/assets/72c496f2-497d-45ee-8e8c-bcf14415c53d" />
 <img width="1116" height="1064" alt="Screenshot 2025-02-15 003338" src="https://github.com/user-attachments/assets/1ac29b64-3314-4a96-bb03-d6636171aa71" />
 
-(bonus: cute boba orpheus!!)
-<img width="143" height="167" alt="Screenshot 2025-02-15 204338" src="https://github.com/user-attachments/assets/a5d70982-fcf0-4ac8-ad7f-668ba675a40a" />
 
 3D Modeling:
+
+
 <img width="194" height="212" alt="Screenshot 2025-02-15 104719" src="https://github.com/user-attachments/assets/26892a54-b7ee-40e8-a071-37d73b4aae2b" />
 <img width="2560" height="1392" alt="Screenshot 2025-02-15 105452" src="https://github.com/user-attachments/assets/eb8bda43-57ea-432a-b81d-9cbb47b97e3a" />
 <img width="1202" height="1032" alt="Screenshot 2025-02-15 155647" src="https://github.com/user-attachments/assets/3b4eb3d7-fb68-40bc-bb25-9a4800cda40b" />
 <img width="1276" height="756" alt="Screenshot 2025-02-16 001306" src="https://github.com/user-attachments/assets/f5a35bbe-3e55-4154-a23e-523012132c56" />
+
