@@ -38,7 +38,7 @@ Schematic            |  PCB         |   Case
 ## Building Process Throughout!!
 
 Schematic Design:
-
+--------------------
 
 
 
@@ -51,7 +51,7 @@ Schematic Design:
 
 
 PCB Design:
-
+--------------------
 
 
 
@@ -64,7 +64,7 @@ PCB Design:
 
 
 3D Modeling:
-
+--------------------
 
 
 
